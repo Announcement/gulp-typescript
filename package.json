@@ -1,0 +1,27 @@
+{
+  "name": "gulp-typescript",
+  "version": "1.0.0",
+  "description": "a *real* typescript gulp plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Announcement/gulp-typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "gulp"
+  ],
+  "author": "Jacob Francis Powers <xxv9xx@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Announcement/gulp-typescript/issues"
+  },
+  "homepage": "https://github.com/Announcement/gulp-typescript#readme",
+  "dependencies": {
+    "plugin-error": "^1.0.1",
+    "typescript": "^2.6.2"
+  }
+}
